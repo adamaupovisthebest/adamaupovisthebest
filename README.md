@@ -1,102 +1,88 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=👋%20Hey,%20I'm%20Adam&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=00F7E4&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Code+Artist+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Innovation+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+</details>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
-
+<!-- Animated Skill Icons -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
-  Tech Stack & Tools
-</h2>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-</p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" /><br>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,mongodb,postgres,redis,aws,docker" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
-  GitHub Stats
-</h2>
-
-<p align="center">
-  <a href="https://github.com/adamaupovisthebest">
-    <img src="https://github-stats-alpha.vercel.app/api?username=adamaupovisthebest&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-  </a>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamaupovisthebest&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamaupovisthebest&theme=tokyonight&hide_border=true&border_radius=10" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaupovisthebest&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" width="41%">
-</p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adamaupovisthebest&theme=darkhub&no-frame=true&row=1&column=7" width="100%">
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px" height="50px">
-  Current Projects
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+  Tech Arsenal
 </h2>
 
 <div align="center">
-  <a href="https://github.com/adamaupovisthebest/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adamaupovisthebest&repo=project1&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/adamaupovisthebest/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adamaupovisthebest&repo=project2&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,mongodb,postgres,redis,aws" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,vim,linux,bash" />
+</div>
+
+<!-- GitHub Stats with Custom Theme -->
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30"/>
-  Let's Connect
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  Mystical Stats
 </h2>
 
 <div align="center">
-  <a href="https://discord.gg/username" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&color=5865F2"/>
-  </a>
-  <a href="https://twitter.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamaupovisthebest&theme=midnight-purple&hide_border=true&stroke=00FF41&ring=00FF41&fire=FF3B90&currStreakLabel=00FF41" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adamaupovisthebest&show_icons=true&theme=midnight-purple&hide_border=true&title_color=00FF41&icon_color=FF3B90&text_color=00FF41" width="49%" />
 </div>
 
+<!-- Activity Graph -->
 <div align="center">
-  <h2>🎵 Vibing to</h2>
-  <a href="https://open.spotify.com/user/yourusername">
-    <img src="https://novatorem-nowplaying-kappa.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamaupovisthebest&theme=chartreuse-dark&hide_border=true&bg_color=000000&color=00FF41&line=FF3B90&point=00FF41" width="98%" />
 </div>
 
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adamaupovisthebest&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
+
+<!-- Contribution Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" />
+  Digital Portals
+</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
-</div> 
+  <a href="https://discord.gg/username">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&color=000000&labelColor=000000" />
+  </a>
+  <a href="https://twitter.com/username">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=000000&labelColor=000000" />
+  </a>
+  <a href="https://linkedin.com/in/username">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000" />
+  </a>
+</div>
+
+<!-- Spotify -->
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" />
+    Current Vibes
+  </h2>
+  <a href="https://open.spotify.com/user/yourusername">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourusername&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=00FF41" />
+  </a>
+</div>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adamaupovisthebest&label=Visitors&color=00FF41&style=for-the-badge&base=2024" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,97&height=170&section=footer&text=Let's%20Create%20Something%20Extraordinary!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+</div>
